@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, RubberDucky!</string>
+    <string name="app_name">Rubber Ducky - Free</string>
+	<string name="MY_AD_UNIT_ID">a14d48cc7040097</string>
+</resources>
